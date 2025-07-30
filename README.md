@@ -13,6 +13,6 @@ Through the completion of this task, I have significantly enhanced my skills in:
 
 2.Campaign Optimization: Identifying areas for improvement and suggesting strategies to maximize ad spend and achieve campaign goals.
 
-3.Dashboard Storytelling: Designing intuitive and visually compelling dashboards that effectively communicate complex performance data and actionable insights.
+3.Dashboard Storytelling: Designing intuitive and visually compelling dashboards that effectively communicate complex performance data and  actionable insights.
 
 4.Data Aggregation & Calculation: Transforming raw campaign data into meaningful metrics.
